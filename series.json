@@ -1,0 +1,55 @@
+{
+"series" : [
+				{
+					"name": "FRIENDS",
+					"year": "1994-2004",
+					"genre": "Comedy, Romance",
+					"rating": "8.9",
+					"directors_name": "David Crane, Marta Kauffman",
+					"cast": "Jennifer Aniston, Courteney Cox, Lisa Kudrow", 
+					"description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+					"poster_src": "https://www.imdb.com/title/tt0108778/mediaviewer/rm2513109504"
+				},
+				{
+					"name": "Prison Break",
+					"year": "2005-2017",
+					"genre": " Action, Crime, Drama ",
+					"rating": "8.4",
+					"directors_name": "Paul Scheuring",
+					"cast": "Dominic Purcell, Wentworth Miller, Amaury Nolasco", 
+					"description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside.",
+					"poster_src": "https://www.imdb.com/title/tt0455275/mediaviewer/rm3065549824"
+				},
+				{
+					"name": "Game of Thrones",
+					"year": "2011-",
+					"genre": "Action, Adventure, Drama",
+					"rating": "9.5",
+					"directors_name": "David Benioff, D.B. Weiss",
+					"cast": "Emilia Clarke, Peter Dinklage, Kit Harington", 
+					"description": "Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+					"poster_src": "https://www.imdb.com/title/tt0944947/mediaviewer/rm2602445312"
+				},
+				{
+					"name": "The Big Bang Theory",
+					"year": "2007-",
+					"genre": "Comedy, Romance",
+					"rating": "8.2",
+					"directors_name": "Chuck Lorre, Bill Prady",
+					"cast": "Johnny Galecki, Jim Parsons, Kaley Cuoco", 
+					"description": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+					"poster_src": "https://www.imdb.com/title/tt0898266/mediaviewer/rm2794006016"
+				},
+				{
+					"name": "Breaking Bad",
+					"year": "2008-2013",
+					"genre": "Crime, Drama, Thriller",
+					"rating": "9.5",
+					"directors_name": "Vince Gilligan",
+					"cast": "Bryan Cranston, Aaron Paul, Anna Gunn", 
+					"description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+					"poster_src": "https://www.imdb.com/title/tt0903747/mediaviewer/rm1620982784"
+				}
+		   ]
+	   
+}

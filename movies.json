@@ -1,0 +1,54 @@
+{
+"movies" : [
+				{
+					"name": "Bahubali",
+					"year": "2015",
+					"genre": "Action , Drama , Fantasy",
+					"rating": "8.2",
+					"directors_name": "S.S. Rajamouli",
+					"cast": "Prabhas, Rana Daggubati", 
+					"description": "In ancient India, an adventurous and daring man becomes involved in a decades old feud between two warring people.",
+					"poster_src": "https://www.imdb.com/title/tt2631186/mediaviewer/rm4292029184" 
+				},
+				{
+					"name": "Interstellar",
+					"year": "2014",
+					"genre": "Adventure, Drama, Sci-Fi ",
+					"rating": "8.6",
+					"directors_name": "Christopher Nolan",
+					"cast": "Matthew McConaughey, Anne Hathaway", 
+					"description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+					"poster_src": "https://www.imdb.com/title/tt0816692/mediaviewer/rm4043724800"
+				},
+				{
+					"name": "Inception",
+					"year": "2010",
+					"genre": " Action, Adventure, Sci-Fi",
+					"rating": "8.8",
+					"directors_name": "Christopher Nolan",
+					"cast": "Leonardo DiCaprio, Joseph Gordon-Levitt", 
+					"description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+					"poster_src": "https://www.imdb.com/title/tt1375666/mediaviewer/rm3426651392"
+				},
+				{
+					"name": "PreMature",
+					"year": "2014",
+					"genre": "Comedy, Fantasy",
+					"rating": "5.8",
+					"directors_name": "Dan Beers",
+					"cast": "John Karna, Caroline Traywick", 
+					"description": "A high school senior has to re-live losing his virginity over and over again until he gets it right, with the right girl.",
+					"poster_src": "https://www.imdb.com/title/tt2182256/mediaviewer/rm1987955712"
+				},
+				{
+					"name": "Johnny English",
+					"year": "2003",
+					"genre": "Comedy",
+					"rating": "6.2",
+					"directors_name": "Peter Howitt",
+					"cast": "Rowan Atkinson, John Malkovich", 
+					"description": "After a sudden attack on the MI5, Johnny English, Britain's most confident yet unintelligent spy, becomes Britain's only spy.",
+					"poster_src": "https://www.imdb.com/title/tt0274166/mediaviewer/rm2658081792"
+				}
+		   ]
+}
